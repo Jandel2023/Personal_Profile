@@ -25,6 +25,12 @@
     .lead{
       text-align: justify;
     }
+    .s-description{
+      text-align: justify;
+    }
+    .logo{
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
   </style>
      <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
@@ -67,7 +73,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/jandel.jpg)">
+  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/darkimage1.jpg)">
     <div class="overlay-itro"></div>
     <div class="hero-content display-table">
       <div class="table-cell">
@@ -150,7 +156,7 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Greetings! My name is Jandel Lopez, hailing from the picturesque Barangay Baldoza in Hindang, Leyte.
+                      Greetings! My name is Jandel Lopez, hailing from Barangay Baldoza in Hindang, Leyte.
                       Currently immersed in the dynamic world of technology,
                       I am pursuing a Bachelor of Science in Information Technology (BSIT) at MLG College of Learning,
                       where I am in my third year of studies. With a passion for innovation and a keen interest in the
@@ -193,14 +199,14 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-briefcase"></i></span>
+                <span class="ico-circle"><i class="bi bi-browser-edge"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Web Design</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                <p class="s-description">
+                  Hello, I'm Jandel R. Lopez, a passionate web designer dedicated to crafting visually stunning and user-friendly websites.
+                  With expertise in HTML, CSS, and JavaScript, I specialize in creating tailored digital experiences that captivate audiences 
+                  and drive results. Let's collaborate to bring your digital vision to life!
                 </p>
               </div>
             </div>
@@ -208,14 +214,14 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-card-checklist"></i></span>
+                <span class="ico-circle"><i class="bi bi-window-stack"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Web Development</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                <p class="s-description">
+                  Hi there! I'm Jandel R. Lopez, a skilled web developer with a passion for crafting dynamic and innovative online solutions. 
+                  With expertise in languages like HTML, CSS, JavaScript, and more, I specialize in building responsive and user-friendly
+                  websites and web applications. Let's collaborate to bring your digital projects to life!
                 </p>
               </div>
             </div>
@@ -223,14 +229,14 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
+                <span class="ico-circle"><i class="bi bi-camera"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Photography</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                <p class="s-description">
+                  Hi, I'm Jandel R. Lopez, a passionate photographer skilled in capturing life's moments with artistic flair. 
+                  Through my lens, I aim to craft compelling visual stories that resonate with viewers.
+                  Let's collaborate to bring your vision to life through captivating imagery."
                 </p>
               </div>
             </div>
@@ -238,14 +244,15 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-binoculars"></i></span>
+                <span class="ico-circle"><i class="bi bi-camera-reels"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Video Editing</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                <p class="s-description">
+                  Hello, I'm Jandel R Lopez, a skilled video editor dedicated to crafting captivating visual experiences. 
+                  With proficiency in industry-standard editing software, I specialize in transforming raw footage
+                  into dynamic and engaging videos. Let's work together to bring your vision to life through impactful
+                  storytelling and polished editing."
                 </p>
               </div>
             </div>
@@ -253,14 +260,14 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-brightness-high"></i></span>
+                <span class="ico-circle"><i class="bi bi-images"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Graphic Design</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                <p class="s-description">
+                  Hello, I'm Jandel R. Lopez, a skilled video graphic designer dedicated to crafting dynamic visual experiences. 
+                  With expertise in motion graphics and animation software, I specialize in creating captivating content that 
+                  engages audiences. Let's work together to bring your vision to life through impactful visual storytelling.
                 </p>
               </div>
             </div>
@@ -268,14 +275,15 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
+                <span class="ico-circle"><i class="bi bi-laptop"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Marketing Services</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                <h2 class="s-title">Freelancer</h2>
+                <p class="s-description">
+                  Hi there! I'm Jandel R. Lopez, a skilled freelancer specializing in Back-end developer. 
+                  With a commitment to excellence and a track record of delivering top-notch results, 
+                  I'm here to tackle your projects with precision and creativity. Let's work together to 
+                  bring your vision to fruition and achieve success.
                 </p>
               </div>
             </div>
@@ -630,10 +638,9 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                        expedita aperiam aliquid at.
-                        Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                        mollitia inventore?
+                        You can easily get in touch with me by sending a direct message through my professional website's contact form. 
+                        Alternatively, feel free to reach out via email or connect with me on LinkedIn for a prompt response. 
+                        I look forward to hearing from you and discussing how we can collaborate on your next project.
                       </p>
                       <ul class="list-ico">
                         <li><span class="bi bi-geo-alt"></span> PHILIPPINES LEYTE HINDANG, BALDOZA 6523</li>
@@ -643,9 +650,8 @@
                     </div>
                     <div class="socials">
                       <ul>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
+                        <li><a href="https://www.facebook.com/demski.chu2xbrothers?mibextid=ZbWKwL"><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
+                        <li><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fdemski.21%3Futm_source%3Dqr%26igsh%3DMzNlNGNkZWQ4Mg%253D%253D%26fbclid%3DIwAR3oZEmOR1MIPLoMA4JmGEf8KjgH7Wm4KIkNu7EZcPgT4dsR64aYnPAEffA&h=AT2-6ucv-wsiNXjmDDzHqhols_mK_QVeXghd0GycCagi1goPylofQeRMA0gdcz3CawSVrPPdoo64Qjk7ikRMFlY_uHqjjQs2bdcIoyhxtzyS0OTXGR4mviOgQPLrInLGftW0kw"><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
                         <li><a href=""><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
                       </ul>
                     </div>
