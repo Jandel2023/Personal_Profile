@@ -380,7 +380,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="inventory.webactivities.online" target="_blank"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="#" target="_blank" onclick="redirectToOtherProject()"> <span class="bi bi-plus-circle"></span></a>
                     </div>
                   </div>
                 </div>
@@ -716,6 +716,11 @@
     window.onload = function() {
         removeLocalhostFromLinks();
     };
+  
+  function redirectToOtherProject() {
+    window.location.href = "http://inventory.webactivities.online/";
+  }
+
 </script>
 
 </body>
